@@ -26,3 +26,4 @@ for i in range(int(Number)):
     check(int(entry),n1*n2)
     end_time=time.time()
     print(f"{end_time-start_time:.2f} seconds")
+    print("nothing special")
